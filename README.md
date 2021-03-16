@@ -1,0 +1,2 @@
+# Virtual lab on Identification of axial bones
+ I participated in eBOOTATHON 04 between September 10 - September 16, 2020, launched by Dr. A. P. J. Abdul Kalam Technical University Lucknow in association with IIT Kanpur, Rajkiya Engineering College Banda and Dr. Babasaheb Ambedkar Technological University Lonere Maharastra, funded by TEQIP-III and developed 01 virtual lab experiment entitled “Identification of axial bones”.
